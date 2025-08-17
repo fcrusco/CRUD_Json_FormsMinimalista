@@ -1,4 +1,4 @@
-# CRUD JSON Minimalista em C# WinForms
+# CRUD JSON em C# WinForms - Layout minimalista, utilizando TableLayoutPanel 
 
 Este projeto consiste em uma aplicação **Windows Forms** desenvolvida em **C# (.NET 8)** que implementa um **CRUD (Create, Read, Update, Delete)** simples utilizando um arquivo **JSON** como base de dados.  
 
@@ -33,7 +33,7 @@ O estilo **minimalista** do projeto elimina elementos visuais complexos, mantend
 
 ## 🇺🇸 English
 
-### Project Description – Minimalist JSON CRUD in C# WinForms
+### Project Description – JSON CRUD in C# WinForms - Minimalist layout, using TableLayoutPanel
 
 This project is a **Windows Forms application** built with **C# (.NET 8)** that implements a simple **CRUD (Create, Read, Update, Delete)** using a **JSON file** as the data store.  
 
@@ -58,7 +58,7 @@ The **minimalist style** of the project avoids unnecessary visual elements, keep
 
 ## 🇪🇸 Español
 
-### Descripción del Proyecto – CRUD JSON Minimalista en C# WinForms
+### Descripción del Proyecto – CRUD JSON en C# WinForms - Diseño minimalista, utilizando TableLayoutPanel
 
 Este proyecto es una aplicación de **Windows Forms** desarrollada en **C# (.NET 8)** que implementa un **CRUD (Crear, Leer, Actualizar, Eliminar)** sencillo utilizando un archivo **JSON** como base de datos.  
 
